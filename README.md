@@ -7,3 +7,5 @@ HTML: Utilizado para estruturar as páginas da Pokédex, organizando os elemento
 Instruções de uso
 
 Abra um Pokédex no seu navegador. Na interface principal, localize o campo “Encontrar Pokémon” e digite o número do Pokémon que deseja pesquisar. Aperte a tecla Enter para visualizar os detalhes do Pokémon, como seu nome, altura e peso.
+
+link de acesso : https://pokemon-zeta-topaz.vercel.app/
